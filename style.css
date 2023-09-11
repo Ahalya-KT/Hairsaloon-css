@@ -51,12 +51,12 @@
     z-index: -1;
     transition: 0.5s;
 }
-.banner-btn a span:hover span{
+.banner-btn a:hover span {
     width: 100%;
-}
-.banner-btn a span:hover{
+  }
+  .banner-btn a:hover {
     color: #000;
-}
+  }
 
 #sideNav{
     width: 120px;
