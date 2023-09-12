@@ -101,7 +101,7 @@ nav ul li a{
 .title-text{
     text-align: center;
     padding-bottom: 70px;
-
+    
 }
 .title-text p{
     margin: auto;
@@ -132,7 +132,7 @@ nav ul li a{
     width: 80%;
     margin: auto;
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     align-items: center;
     text-align: center;
     
@@ -143,7 +143,7 @@ nav ul li a{
 }
 
 .features-img img{
-    width: 70%;
+    width: 100%;
     border-radius: 10px;
 }
 .features h1{
